@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fact",
+				"factorial_rec"
+			],
+			[
+				"fibona",
+				"fibonacci_rec"
+			],
+			[
+				"depa",
+				"department_id"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"request",
+				"request_type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"init",
+				"initContainer"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"result",
+				"resultset"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"mysql_fect",
+				"mysql_fetch_object"
+			],
+			[
+				"req",
+				"req_query"
+			],
+			[
+				"c",
+				"connection.php"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"stat	",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ints",
+				"Package Control: Install Package"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ripper/mypractices/udemy/landing-page/app",
+		"/home/ripper/mypractices/udemy/landing-page/app/css"
+	],
+	"file_history":
+	[
+		"/home/ripper/mywork/cgfie/projects/e-fie/app/index.php",
+		"/home/ripper/myprojects/vircoorbis/fibonacci_rec.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/views/user/edit_item.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/db/seeds/departments.sql",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/db/seeds/reset_db.sql",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/js/views/edit_item/user.js",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/lib/cgfie/elements.js",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/views/user/request_mail.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/lib/cgfie/validate.js",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/user/request_save.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/requests_mail_model.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/core/close_session.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/core/utils.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/index.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/db/migraciones/migration2.sql",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/views/admin/edit_item.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/departments_model.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/users_model.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/user/edit_request.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/views/user/index.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/user/validate_user.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/views/admin/index.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/js/views/user_index.js",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/data_sources/user_mail_request.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/data_sources/admin_mail_request.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/.htaccess",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/js/views/admin_index.js",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/admin/request_save.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/admin/edit_request.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/db/migraciones/departments.sql",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/db/migraciones/migration1.sql",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/user/request_mail.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/js/views/user_request_mail.js",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/css/app.css",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/db/dsi_mail.sql",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/core/config.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/core/connection.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/js/views/login/login.js",
+		"/home/ripper/mywork/cgfie/sources/plantilla/index5.html",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/layout.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/core/routes.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/splash.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/users.php",
+		"/home/ripper/mywork/cgfie/sources/plantilla/index4.html",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/css/views/login.css",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/session_validate.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/helpers/connection.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/controllers/login.php",
+		"/home/ripper/mywork/cgfie/projects/dsi_mail/models/user_model.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/user/elements/_table-request.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/user/elements/_menu.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/user/new.php",
+		"/home/ripper/mywork/cgfie/projects/mail/public/js/views/user.js",
+		"/home/ripper/mywork/cgfie/projects/mail/.htaccess",
+		"/home/ripper/mywork/cgfie/projects/mail/application/controllers/user.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/users.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/layouts/application.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/controllers/home.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/user/user.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/ui/footer/_footer.php",
+		"/home/ripper/mywork/cgfie/projects/mail/public/css/style.css",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/javascripts.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/stylesheets.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/endjs.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/ui/head.php",
+		"/home/ripper/mywork/cgfie/projects/mail/public/js/jquery.dataTables.min.js",
+		"/home/ripper/mywork/cgfie/projects/mail/application/logs/log-2015-03-17.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/user/elements/_not-found.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/request.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/controllers/admin.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/admin/admin.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/ui/head/_actions.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/login/login.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/config/autoload.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/admins.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/config/config.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/login/_form.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/logs/log-2015-03-14.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/config/routes.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/.htaccess",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/admin_model.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/user_model.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/actualizar.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/config/database.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/request_model.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/models/workstation_status.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/controllers/splash.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/fonts.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/controllers/front.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/share/ui/footer.php",
+		"/home/ripper/mywork/cgfie/projects/mail/application/views/welcome_message.php",
+		"/home/ripper/mywork/cgfie/projects/mail/schema.sql",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/login/login.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/controllers/home.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/home/home.php",
+		"/home/ripper/mywork/cgfie/projects/ip/public/css/views/login.css",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/login/_form.php",
+		"/home/ripper/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ripper/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/ui/head.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/stylesheets.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/actualizar.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/fonts.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/javascripts.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/layouts/application.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/endjs.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/ui/footer.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/share/meta.php",
+		"/home/ripper/mywork/cgfie/sources/plantilla/index2.html",
+		"/home/ripper/mywork/cgfie/projects/ip/application/views/login/elements/_form.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/controllers/front.php",
+		"/home/ripper/mywork/cgfie/projects/ip/css/style.css",
+		"/home/ripper/mywork/cgfie/projects/ip/css/views/login.css",
+		"/home/ripper/mywork/cgfie/projects/ip/css/ui.css",
+		"/home/ripper/mywork/cgfie/projects/ip/application/controllers/welcome.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/config/routes.php",
+		"/home/ripper/mywork/cgfie/projects/ip/application/config/config.php",
+		"/home/ripper/mywork/feather/test/radius/Gemfile"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"siv",
+			"print \"yes\"",
+			"pass",
+			"Pass",
+			"pass",
+			"extension",
+			"(){",
+			"unable",
+			"unables",
+			"class=\"field-content\">",
+			"-3",
+			"field-container",
+			"field",
+			"input type=\"text\"",
+			"SET",
+			"bind_param",
+			"bindParam",
+			"bind",
+			"?>",
+			"$this->_db",
+			"contrasena",
+			"REQUEST",
+			"\"\"",
+			"localhost/ip",
+			"ip",
+			"localhost",
+			"mydb",
+			">\n",
+			"li",
+			"=\"#\">",
+			"=\"\">",
+			"=\"#\">",
+			"p",
+			"h3",
+			"\"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dsi_mail"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								979,
+								979
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 120.0
+	},
+	"output.git-init":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "landing.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/mypractices/javascript/practices-librosweb-javascript.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
